@@ -1,10 +1,14 @@
 # Ethical Hacking Technical Report
 
-## Sample Name of Company: Acme Inc.
+## Name of Company: Procas T Nation
+
+### Prepared by: Chino Lawrence A. Noble and Boyet P. Peñales
+
+### Date: May 10, 2024
 
 ### Executive Summary:
 
-This report details the findings of an ethical hacking assessment conducted for Acme Inc. The assessment, authorized in writing on 10/05/2024, aimed to identify vulnerabilities within the organization's network infrastructure, applications, and systems. Penetration testing and vulnerability scanning methodologies were employed to uncover critical, high, and medium-risk security weaknesses. This report outlines these vulnerabilities, assigns a Common Vulnerability Scoring System (CVSS) score for each, and provides actionable recommendations for remediation.
+This report details the findings of an ethical hacking assessment conducted for Procas T Nation. The assessment, authorized in writing on 10/05/2024, aimed to identify vulnerabilities within the organization's network infrastructure, applications, and systems. Penetration testing and vulnerability scanning methodologies were employed to uncover critical, high, and medium-risk security weaknesses. This report outlines these vulnerabilities, assigns a Common Vulnerability Scoring System (CVSS) score for each, and provides actionable recommendations for remediation.
 
 ### Vulnerability Summary:
 
